@@ -1,0 +1,6 @@
+@daviagens_api_HostAddress = http://localhost:5012
+
+GET {{daviagens_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
